@@ -1,7 +1,7 @@
 # Benchmarking Search Algorithms
 
-This repository contains the files of my project for the Algorithm Design
-Foundations course at AUT (Tehran Polytechnic).
+This repository contains my project for the algorithm design foundations course
+at AUT (Tehran Polytechnic).
 
 ## Studied Algorithms
 
@@ -27,5 +27,5 @@ Foundations course at AUT (Tehran Polytechnic).
 ![Smoothed Results](./screenshots/smoothed.png)
 
 As we expected theoretically, we found that Linear Search has the worst
-performance while Ternary Search, Binary Search, and Interpolation Search
-perform the best.
+performance. And ternary search, binary search, and interpolation search perform
+the best.
