@@ -1,6 +1,6 @@
 # Benchmarking Search Algorithms
 
-This repository contains my project for the algorithm design foundations course
+This repository contains my project for the Algorithm Design Foundations course
 at AUT (Tehran Polytechnic).
 
 ## Studied Algorithms
