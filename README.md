@@ -5,14 +5,14 @@ at AUT (Tehran Polytechnic).
 
 ## Studied Algorithms
 
-1. Linear Search
-2. Jump Search
-3. Binary Search
-4. Ternary Search
-5. Interpolation Search
-6. Exponential Search
-7. Fibonacci Search
-8. Uniform Binary Search
+1. Linear search
+2. Jump search
+3. Binary search
+4. Ternary search
+5. Interpolation search
+6. Exponential search
+7. Fibonacci search
+8. Uniform binary search
 
 ## Results
 
