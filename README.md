@@ -1,7 +1,7 @@
 # Benchmarking Search Algorithms
 
-This repository contains the files of my project for the "Artificial
-Intelligence" course at Amirkabir University of Technology (Tehran Polytechnic).
+This repository contains the files of my project for the "Algorithm Design
+Foundations" course at Amirkabir University of Technology (Tehran Polytechnic).
 
 ## Studied Algorithms
 
